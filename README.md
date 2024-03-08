@@ -1,5 +1,5 @@
 # WorldCup Project
-- This repository contains the solution files for the freecodecamp's Relation database certification second project
+- This repository contains the solution files for the freecodecamp's Relation database certification's second project
 - Contains four files :
   - `worldcup.sql` : pgdump of the database that was built using the bash script
   - `insert_data.sh` : bash script for inserting data from csv file to the postgres database
